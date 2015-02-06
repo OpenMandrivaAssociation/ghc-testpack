@@ -4,7 +4,7 @@
 Summary:	Test Utililty Pack for HUnit and QuickCheck
 Name:		ghc-%{module}
 Version:	2.1.2
-Release:	2
+Release:	3
 License:	LGPLv2.1+
 Group:		Development/Other
 Url:		http://hackage.haskell.org/package/%{module}
